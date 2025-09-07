@@ -1,0 +1,1 @@
+{"name":"Local: 3_word frequency","url":"d:\\Y_01.T_02\\SPL\\teacher slide\\from books\\3_word frequency.c","tests":[{"id":1757152713028,"input":"rony imran rony ritu imran rony\nrony\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y_01.T_02\\SPL\\teacher slide\\from books\\3_word frequency.c","group":"local","local":true}
